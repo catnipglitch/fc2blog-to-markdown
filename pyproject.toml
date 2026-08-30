@@ -1,0 +1,27 @@
+[project]
+name = "fc2blog-to-markdown"
+version = "0.1.0"
+description = "FC2ブログのエクスポートファイルを日付別のMarkdownに変換し、Astroなどへの移転とバックアップを支援するツール"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.12",
+    "markdownify>=0.13",
+    "requests>=2.32",
+]
+
+[project.scripts]
+fc2md = "fc2md.__main__:main"
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+]
+
+[tool.uv.build-backend]
+module-name = "fc2md"
+
+[build-system]
+requires = ["uv_build>=0.8.0,<0.9.0"]
+build-backend = "uv_build"

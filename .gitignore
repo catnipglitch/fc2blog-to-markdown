@@ -1,0 +1,20 @@
+# 秘匿データ（未公開の実エクスポートデータ）— 絶対にコミットしない
+tmp/
+
+# 変換出力（実データ由来の成果物を含みうる）
+output/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# uv
+# uv.lock はコミットする（再現性のため除外しない）
+
+# OS
+.DS_Store
+Thumbs.db

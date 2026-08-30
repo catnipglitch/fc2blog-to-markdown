@@ -1,0 +1,209 @@
+AUTHOR: sampleuser
+TITLE: はじめまして、タマです。
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: default
+ALLOW PINGS: 1
+PRIMARY CATEGORY: 猫日記
+CATEGORY: 猫日記
+
+DATE: 03/10/2009 21:15:30
+-----
+BODY:
+<a href="http://blog-imgs-99.fc2.com/s/a/m/sampleblog/tama.jpg" target="_blank"><img src="http://blog-imgs-99.fc2.com/s/a/m/sampleblog/tamas.jpg" alt="タマの写真" border="0" /></a>
+
+先月うちにやってきた子猫のタマです。
+保護したときはガリガリでしたが、今ではすっかり元気になりました。
+
+好物はかつおぶしです。
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: sampleuser
+TITLE: 今日の空
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: default
+ALLOW PINGS: 1
+PRIMARY CATEGORY: 日常
+CATEGORY: 日常
+
+DATE: 03/10/2009 23:40:05
+-----
+BODY:
+夕方の空がきれいだったので思わず撮影。
+
+明日は晴れるといいなぁ。
+
+
+ではまた。
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: sampleuser
+TITLE: 新しいカメラを買いました
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: default
+ALLOW PINGS: 1
+PRIMARY CATEGORY: カメラ
+CATEGORY: カメラ
+
+DATE: 05/02/2009 12:00:00
+-----
+BODY:
+ついに新しいデジタルカメラを買いました！
+<a href="http://blog-imgs-99.fc2.com/s/a/m/sampleblog/20090502120000.jpg" target="_blank"><img src="http://blog-imgs-99.fc2.com/s/a/m/sampleblog/20090502120000s.jpg" alt="開封の儀" border="0" /></a>
+
+旧機種と<strong>スペックを比較</strong>してみました。
+
+<table border="1">
+<tr><td>項目</td><td>旧機種</td><td>新機種</td></tr>
+<tr><td>画素数</td><td>600万</td><td>1200万</td></tr>
+<tr><td>重さ</td><td>350g</td><td>280g</td></tr>
+</table>
+
+軽くなったのがうれしいです。
+
+<iframe src="http://rcm-jp.example.com/e/cm?t=sampleblog-22&asins=B000000000" width="120" height="240" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: sampleuser
+TITLE: 運動会の動画をアップしました
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: default
+ALLOW PINGS: 1
+PRIMARY CATEGORY: ビデオカメラ
+CATEGORY: ビデオカメラ
+
+DATE: 01/15/2010 08:30:45
+-----
+BODY:
+先日の運動会の動画を動画共有サービスにアップしました。
+
+<iframe src="http://video.example.jp/embed.do?movieId=123456&width=391&height=248" width="391" height="248" frameborder="0" scrolling="no"></iframe>
+
+手ブレ補正のおかげでだいぶ見やすくなっています。
+<script type="text/javascript" src="http://analyzer99.example.com/ana/processor.php?uid=123456"></script><noscript><img src="http://analyzer99.example.com/ana/icon.php?uid=123456" alt="" /></noscript>
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
+AUTHOR: sampleuser
+TITLE: ブログ開設一周年
+STATUS: Publish
+ALLOW COMMENTS: 1
+CONVERT BREAKS: default
+ALLOW PINGS: 1
+PRIMARY CATEGORY: 日常
+CATEGORY: 日常
+CATEGORY: 猫日記
+
+DATE: 08/07/2010 19:00:00
+-----
+BODY:
+このブログも開設から一年が経ちました。
+読んでくださっているみなさま、ありがとうございます。
+-----
+EXTENDED BODY:
+ここからは追記です。
+
+一年間の振り返りはまた別の記事にまとめる予定です。
+タマも一歳になりました。
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+記念,雑記
+-----
+COMMENT:
+AUTHOR: 通りすがりの猫好き
+EMAIL:
+IP: 192.0.2.1
+URL:
+DATE: 08/08/2010 10:12:34
+一周年おめでとうございます！
+タマちゃんの写真をこれからも楽しみにしています。
+-----
+COMMENT:
+AUTHOR: sampleuser
+EMAIL:
+IP: 192.0.2.2
+URL: http://sampleblog.blog99.fc2.com/
+DATE: 08/08/2010 21:45:00
+ありがとうございます。
+これからもマイペースに更新していきます。
+-----
+
+
+--------
+AUTHOR: sampleuser
+TITLE: （下書き）レンズ沼への第一歩
+STATUS: Draft
+ALLOW COMMENTS: 1
+CONVERT BREAKS: default
+ALLOW PINGS: 1
+PRIMARY CATEGORY: カメラ
+CATEGORY: カメラ
+CATEGORY: 日常
+
+DATE: 02/20/2011 15:20:10
+-----
+BODY:
+単焦点レンズが気になっています。
+この記事はまだ下書きです。
+-----
+EXTENDED BODY:
+
+-----
+EXCERPT:
+
+-----
+KEYWORDS:
+
+-----
+
+
+--------
